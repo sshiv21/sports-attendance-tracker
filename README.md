@@ -31,7 +31,7 @@ Installation and Setup
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/SportsAttendanceTracker.git
+git clone https://github.com/sshiv21/sports-attendance-tracker.git
 Set up the MySQL database using the provided SQL file.
 Configure the database connection in the config.php file.
 Run the application on a local server (e.g., XAMPP or WAMP) or deploy it on a live server.
